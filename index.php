@@ -8,5 +8,9 @@
 <body>
     <h1>hwloo world</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore ab porro consequuntur aliquid esse placeat inventore, quas voluptate suscipit modi nihil adipisci eum facilis. Molestiae!</p>
+    <ul>
+        <li>stua</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
